@@ -2,3 +2,4 @@
 
 - Rosemarie : fèves
 - Steph : patates
+- Eloi : carottes
